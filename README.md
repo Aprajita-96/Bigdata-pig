@@ -24,3 +24,8 @@ name the data set as nyctaxi.
 c) Group nyctaxi by passenger_count.
 d) Display the average fare_amount and average tip_rate within each group of
 passenger_count.
+
+
+How to run?
+
+Create an EMR cluster (can use AWS) , download WinSCP and make an connection to EMR.
