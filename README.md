@@ -29,3 +29,5 @@ passenger_count.
 How to run?
 
 Create an EMR cluster (can use AWS) , download WinSCP and make an connection to EMR.
+Once pig cluster is started: 
+pig -x local command will start the pig
